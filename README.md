@@ -79,7 +79,7 @@ The number of timed iterations is set at the top of `main.c`:
 #define ITERATIONS 100000
 ```
 
-Each iteration copies the original string into a buffer and then processes it, so the run is repeated on fresh uppercase input every time.
+Each iteration copies the original string into a buffer and then processes it, so the run is repeated on the unedited original text with uppercase input every time.
 
 ## Output
 
