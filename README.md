@@ -1,4 +1,4 @@
-# C-RISCV-text-normalizer-counter
+# c-riscv-text-normalizer-counter
 
 RISC-V assembly implementations of text normalization and word counting, benchmarked against a C implementation under QEMU.
 
